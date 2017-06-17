@@ -1,2 +1,1 @@
-# deep-learning
-Deep learning basics
+#deep-learning
